@@ -9,7 +9,7 @@
 # ![ProjectImage](https://github.com/ChinmayaBisoi/TicTacToe-VanillaJs/blob/main/Images/TicTacToe%20Main.PNG)
  
 
-## Usage
+## How to Play :
 Alternates between Player1 and Player2. Enter a digit [1-9] to move:
 
  The game ends if:
