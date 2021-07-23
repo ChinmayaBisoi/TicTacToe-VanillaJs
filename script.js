@@ -43,7 +43,7 @@ document.addEventListener("DOMContentLoaded", function () {
 
             }
 
-            if (count >= 9) {
+            if (count > 9) {
                 
                 game = false;
                 displayTurn.innerText = " Ooops! Its a tie ~ \n Game Resets in 5 secs"
