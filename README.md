@@ -5,7 +5,7 @@
  - This is a two player tic tac toe game ( meaning both the players are human ).
  - The first player to place 3 of their mark forming a straight line wins.
 
-# Click here to see the live version ![LiveProjectLink](https://codepen.io/Cbi/pen/jOVKwRp)
+# Click here to see the live version [LiveProjectLink](https://codepen.io/Cbi/pen/jOVKwRp)
 # ![LiveProjectLink](https://codepen.io/Cbi/pen/jOVKwRp)
  
 
