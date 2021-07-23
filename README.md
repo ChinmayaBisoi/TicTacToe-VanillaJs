@@ -6,7 +6,7 @@
  - The first player to place 3 of their mark forming a straight line wins.
 
 # Click here to see the live version [LiveProjectLink](https://codepen.io/Cbi/pen/jOVKwRp)
-# ![LiveProjectLink](https://codepen.io/Cbi/pen/jOVKwRp)
+# ![ProjectImage](https://github.com/ChinmayaBisoi/TicTacToe-VanillaJs/blob/main/Images/TicTacToe%20Main.PNG)
  
 
 ## Usage
